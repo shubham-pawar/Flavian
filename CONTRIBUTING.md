@@ -32,7 +32,7 @@ cd Flavian
 3. **Make your changes** following the coding standards below
 4. **Test** your changes with the local Docker environment (`./wordpress-local.sh start`)
 5. **Commit** with a descriptive message using conventional commits (e.g., `feat:`, `fix:`, `docs:`)
-6. **Push** Push your branch and open a Pull Request against `main`
+6. **Push** your branch and open a Pull Request against `main`
 
 ## Coding Standards
 
